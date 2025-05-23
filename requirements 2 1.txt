@@ -1,0 +1,13 @@
+langchain
+langchain_core
+langgraph
+langchain_community
+python-dotenv==1.0.1
+requests==2.32.3
+langchain-google-genai
+gemini-api
+fastapi[standard]
+uvicorn
+gunicorn
+pytest
+pytest-cov
